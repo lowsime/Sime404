@@ -1,15 +1,49 @@
-https://media.tenor.co/videos/caa5edff9f184c9decb2e2a73acef567/mp4
-### Hi there 👋
+### 👋 Hi, I'm lowsime
+💻 **Backend Developer | Lua Enthusiast**
 
-Im discord bot developer from Italy.
+---
+```lua
+-- 💻 Technologies I currently work with
+local learning = {"Lua", "Batch", "HTML"}
 
+table.sort(learning)
+
+-- 🧻 Contact information
+local contacts = {
+    Discord = "lowsime",
+    GitHub = "github.com/lowsime",
+}
+
+print(string.format("\n%s\n%s\n", string.rep("=", 30), "🚀 Developer Profile"))
+print(string.format("Currently working with: %s", table.concat(learning, ", ")))
+
+for k, v in pairs(contacts) do
+    print(string.format("%s: %s", k, v))
+end
+
+print(string.rep("=", 30))
 ```
-• 💻 I’m currently learning Python and JavaScript
 
-• 🧻 My discord account: Sime#0017
-```
+---
 ### Languages:
-<p align="">
-  <img height="50" src="https://camo.githubusercontent.com/4575a0a9c24b0dfd5cf21d206f98b5f72761eaaa139f4debdbb526162170485c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3132303070782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="max-width:100%;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" alt="JavaScript">
+
+<p align="left">
+  <img src="https://i.postimg.cc/bJz96TcX/lowsimegithub.png" width="50" height="50" alt="lowsime" style="vertical-align: middle;">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" alt="HTML">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" width="80" alt="Lua">
+</p>
+
+<p align="center">
+  🚀 <strong>Backend Developer | Lua Enthusiast</strong> 🚀
+</p>
+
+<p align="center">
+  💡 Passionate about coding | Always learning & experimenting | Let's build something awesome!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/©️ Github lowsime-505050?style=for-the-badge&logo=github&logoColor=white" alt="GitHub lowsime 2025">
 </p>
