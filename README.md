@@ -9,7 +9,7 @@ local learning = {"Lua", "Batch", "HTML"}
 table.sort(learning)
 
 -- 🧻 Contact information
-local contacts = {
+contacts = {
     Discord = "lowsime",
     GitHub = "github.com/lowsime",
 }
